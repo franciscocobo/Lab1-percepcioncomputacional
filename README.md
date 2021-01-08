@@ -1,9 +1,13 @@
 # Laboratorio 1 - Grupo 18 - Equipo 2
 
 Javier Sanz Fayos
+
 Francisco José Cobo Celdrán
+
 Alicia Amores Sánchez
+
 Fernando Palomino Cobo
+
 Monica Hazeu Gonzalez
 
 ### Para el laboratorio 1 de la asignatura de Percepción Computacional, se ha desarrollado una función que permite eliminar el artefacto de "ojos rojos" de una fotografía. 
